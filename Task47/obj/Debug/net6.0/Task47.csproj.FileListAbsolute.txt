@@ -1,0 +1,15 @@
+C:\Users\sofi2\Desktop\Hometask3\Task47\bin\Debug\net6.0\Task47.exe
+C:\Users\sofi2\Desktop\Hometask3\Task47\bin\Debug\net6.0\Task47.deps.json
+C:\Users\sofi2\Desktop\Hometask3\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+C:\Users\sofi2\Desktop\Hometask3\Task47\bin\Debug\net6.0\Task47.dll
+C:\Users\sofi2\Desktop\Hometask3\Task47\bin\Debug\net6.0\Task47.pdb
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\Task47.dll
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\refint\Task47.dll
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\Task47.pdb
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+C:\Users\sofi2\Desktop\Hometask3\Task47\obj\Debug\net6.0\ref\Task47.dll
